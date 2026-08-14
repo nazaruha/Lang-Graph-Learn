@@ -1,0 +1,8 @@
+# LangGraph
+.langgraph_api/
+
+# Environment
+.env
+
+# Jupyter Checkpoints
+.ipynb_checkpoints
