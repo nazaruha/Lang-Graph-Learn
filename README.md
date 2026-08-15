@@ -18,6 +18,7 @@ A repository dedicated to my journey exploring the LangChain ecosystem and build
 | [**01_getting_started**](./01_getting_started/)                     | Basic introduction to LangChain and LangGraph. Building simple graphs and integrating with Gemini.            |
 | [**02_tracing_and_observability**](./02_tracing_and_observability/) | How to trace agent executions, tool calls, and LLM responses using LangSmith.                                 |
 | [**03_essay_writer_agent**](./03_essay_writer_agent/)               | An "Explain Like I'm 5" essay writing agent that searches the web and formats answers using a stateful graph. |
+| [**04_types_of_runs**](./04_types_of_runs/)                         | Deep dive into LangSmith run types (LLM, Retriever, Tool, Chain, Prompt, Parser) and the `@traceable` decorator. |
 
 ---
 
