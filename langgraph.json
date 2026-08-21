@@ -1,0 +1,8 @@
+{
+  "__comment__": "Config file that tells Studio where your agents are in your codebase (Studio is a LangSmith paltform for debugging your agents)",
+  "dependencies": ["."],
+  "graphs": {
+    "Essay Writer 5y.o.": "./05_langsmith_studio/graphs.py:essay_writer_5_yo"
+  },
+  "env": "./.env"
+}
