@@ -20,6 +20,7 @@ A repository dedicated to my journey exploring the LangChain ecosystem and build
 | [**03_essay_writer_agent**](./03_essay_writer_agent/)               | An "Explain Like I'm 5" essay writing agent that searches the web and formats answers using a stateful graph. |
 | [**04_types_of_runs**](./04_types_of_runs/)                         | Deep dive into LangSmith run types (LLM, Retriever, Tool, Chain, Prompt, Parser) and the `@traceable` decorator. |
 | [**05_langsmith_studio**](./05_langsmith_studio/)                   | Using LangGraph Studio for visual debugging, time-travel, and step-by-step agent execution. |
+| [**06_langsmith_prompting**](./06_langsmith_prompting/)             | Using LangSmith's Prompt Playground to version-control and dynamically pull prompts into your code. |
 
 ---
 
