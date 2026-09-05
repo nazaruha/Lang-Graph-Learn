@@ -21,6 +21,7 @@ A repository dedicated to my journey exploring the LangChain ecosystem and build
 | [**04_types_of_runs**](./04_types_of_runs/)                         | Deep dive into LangSmith run types (LLM, Retriever, Tool, Chain, Prompt, Parser) and the `@traceable` decorator. |
 | [**05_langsmith_studio**](./05_langsmith_studio/)                   | Using LangGraph Studio for visual debugging, time-travel, and step-by-step agent execution. |
 | [**06_langsmith_prompting**](./06_langsmith_prompting/)             | Using LangSmith's Prompt Playground to version-control and dynamically pull prompts into your code. |
+| [**07_offline_evaluations**](./07_offline_evaluations/)             | Benchmarking and testing applications against LangSmith datasets using custom code and LLM-as-a-Judge evaluators. |
 
 ---
 
